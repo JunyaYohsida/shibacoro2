@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/z6b61v3xpd9", (function(a){return {data:[{id:"z6b61v3xpd9",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,title:"新宿御苑芝生",body:"\u003Cp\u003E東京１の芝生、かもしれない。\u003C\u002Fp\u003E"}],fetch:{},mutations:void 0}}("2023-02-15T12:08:55.569Z")));
